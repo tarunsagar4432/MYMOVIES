@@ -29,6 +29,6 @@ The following *additional* features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:https://submissions.us-east-1.linodeobjects.com/and102/RpI6-RWs.gif
 
 <img src='https://submissions.us-east-1.linodeobjects.com/and102/RpI6-RWs.gif' />
